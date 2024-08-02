@@ -8,6 +8,9 @@
 - 💬 Ask me about **Python.**
 
 
+![5IJ](https://github.com/user-attachments/assets/fafe1b23-55ab-4a2b-af6a-d823ca61e9aa)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/munashe samapundo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munashe samapundo" height="30" width="40" /></a>
