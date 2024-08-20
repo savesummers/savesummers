@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savesummers&label=Profile%20views&color=0e75b6&style=flat" alt="savesummers" /> </p>
 
-- 🔭 I’m currently working on **Enhancing Diabetes Forecasting With Multilayer Perceptrons.**
+- 🔭 I’m currently working on **DEEP LEARNING-BASED TAXI FARE PREDICTION.**
 
 - 💬 Ask me about **Python.**
 
