@@ -1,5 +1,5 @@
 <h1 align="center">👋 Greetings! I'm Munashe Samapundo</h1>
-<h3 align="center">Passionate Python Developer | Deep Learning Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=savesummers&label=Profile%20views&color=0e75b6&style=flat" alt="savesummers" />
