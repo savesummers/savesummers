@@ -2,8 +2,6 @@
 
 <h2 align="center">Software Engineer</h2>
 
----
-
 <h3 align="center">💬 What I Like to Discuss</h3>
 
 <p align="center">
@@ -13,8 +11,6 @@
   💡 Building scalable and efficient software systems<br>
   🌍 Technology, innovation, and ethical AI
 </p>
-
----
 
 <h3 align="center">📫 Connect with Me</h3>
 
@@ -26,8 +22,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=savesummers&show_icons=true&theme=dracula" alt="GitHub Stats"/>
