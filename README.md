@@ -24,5 +24,4 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savesummers&show_icons=true&theme=dracula" alt="GitHub Stats"/>
 </div>
